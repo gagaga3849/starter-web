@@ -14,7 +14,7 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQ Modernizr
     
     
     bala Bulaa Dula
