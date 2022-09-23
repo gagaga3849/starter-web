@@ -17,7 +17,7 @@
     jQuery, Modernizr
     
     
-    bala Bula Mula Dula
+    bala Bulaa Dula
     
     Thanks to all
     
